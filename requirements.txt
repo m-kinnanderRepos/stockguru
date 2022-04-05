@@ -6,3 +6,4 @@ aws-cdk.aws-events-targets
 aws-cdk.aws-lambda
 aws-cdk.core
 aws-cdk.aws-iam
+awscli

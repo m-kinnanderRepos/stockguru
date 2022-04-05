@@ -1,4 +1,4 @@
-from read import *
+from reads_for_stocks import *
 from stocks import *
           
 if __name__ == "__main__":

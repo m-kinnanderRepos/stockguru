@@ -3,7 +3,7 @@ import os
 import sys
 # Append parent directory to import path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from read import *
+from reads_for_stocks import *
 from classes.stock_classes import Stock
 
 class TestReadMethods(unittest.TestCase):

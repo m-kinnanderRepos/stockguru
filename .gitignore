@@ -7,3 +7,4 @@ __pycache__/
 */__pycache__/
 !tests/test_files/test-config-history_api.json
 !tests/test_files/test-stocks.csv
+!cdk.json

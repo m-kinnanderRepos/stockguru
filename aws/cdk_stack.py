@@ -1,9 +1,7 @@
 from constructs import Construct
 from aws_cdk import (
-    Stack,
     aws_lambda as _lambda,
 )
-from aws.lambda_function import lambda_handler
 
 class cdkStack(Stack):
     def __init__(self, scope: Construct, id: str, **kwargs) -> None:
